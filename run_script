@@ -1,0 +1,4 @@
+python run.py
+python plotter.py
+rm position.mp4
+./video.txt
