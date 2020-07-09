@@ -1,1 +1,0 @@
-ffmpeg -framerate 40 -i Plots/position_%0000d.png -c:v libx264 -profile:v high -crf 20 -pix_fmt yuv420p position.mp4
